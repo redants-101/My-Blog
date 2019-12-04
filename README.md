@@ -199,5 +199,6 @@
 ```
 
 ### 导入WordPress博客功能
-1.在WordPress的后台管理系统中导出.xml格式的博客文件，“My-Blog/src/main/resources/static/wordpress.2019-11-03.xml”该路径是一个我超出的博客文件
-2.进入My-Blog博客的管理系统，导入导出功能把刚才导出的文件导入就OK了
+1. 在WordPress的后台管理系统中导出.xml格式的博客文件，“My-Blog/src/main/resources/static/wordpress.2019-11-03.xml”该路径是一个我超出的博客文件
+2. 进入My-Blog博客的管理系统，导入导出功能把刚才导出的文件导入就OK了
+![my-logo.png](/fuchenggang/My-Blog/static-files/WordPress.jpg）
