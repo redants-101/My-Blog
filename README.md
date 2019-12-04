@@ -201,7 +201,7 @@
 </configuration>
 ```
 
-### 导入WordPress博客功能
+### 导入WordPress博客功能（实现对图片、关键字、分类、标题、博客内容等导入）
 1. 在WordPress的后台管理系统中导出.xml格式的博客文件，“My-Blog/src/main/resources/static/wordpress.2019-11-03.xml”该路径是一个我超出的博客文件
 2. 进入My-Blog博客的管理系统，导入导出功能把刚才导出的文件导入就OK了
 
